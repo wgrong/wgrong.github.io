@@ -373,7 +373,7 @@ table.imgtable, table.imgtable td {
 </style>
 
 
-<title>Jing ZHANG</title>
+<title>Wenge Rone</title>
 </head>
 <body>
 <div id="layout-content">
@@ -385,7 +385,7 @@ School of Computer Science and Engineering<bar>
 Beihang University</p>
 <p>Email: w dot rong at buaa dot edu dot cn</p>
 <p>Address: Room G947, New Main Building, No. 37 Xueyuan Road, Haidian, Beijing, China</p>
-</td></tr></tbody></table>
+
 <h2>Short Bio</h2>
 <p>I am currently an associate professor in School of Computer Science and Engineering, Beihang University. I received my PhD from University of Reading in 2010, MSc with distinction from Queen Mary College, University of London in 2003, BSc from Nanjing University of Science and Technology in 1996. Before I joined Beihang University I worked as senior software engineer in China Aerospace Science and Technology Corporation. My research interests and publications span from machine learning, natural language processing, data mining and information systems.</p>
 
@@ -489,7 +489,7 @@ Beihang University</p>
 <LI><b>Wenge Rong</b>, Kecheng Liu. A Multi-agent Architecture for CSCW Systems: From Organizational Semiotics Perspective. In: Proceedings of 9th Pacific Rim International Workshop on Multi-Agents. 2006: 766-772</li>	
 
 
-</ol>
+
 
 <h2>Journal Publications </h2>
 <ol>
@@ -642,7 +642,7 @@ Beihang University</p>
 
 <h2>Alumni</h2>
 
-<p>Master Student:</p[>
+<p>Master Student:</p>
 
 <p>2018</p>
 <ul>
@@ -701,7 +701,7 @@ Beihang University</p>
 </ul>
 
 
-<p>Undergraduate Student:</p[>
+<p>Undergraduate Student:</p>
 
 <p>2018</p>
 <ul>
@@ -839,7 +839,6 @@ src="http://c.statcounter.com/9194777/0/ce1634e9/1/"
 alt="web stats"&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;</noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
-</div>
 </div>
 </div>
 
